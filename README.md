@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="princeyadav09" />
 
 
 
