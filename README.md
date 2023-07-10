@@ -4,7 +4,6 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" alt="princeyadav09" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeyadav09&label=Profile%20views&color=0e75b6&style=flat" alt="princeyadav09" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
