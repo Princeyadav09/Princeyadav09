@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 All set to show with you...
 
 - 👨‍💻 All of my projects are available at [princeyadav09](princeyadav09)
 
