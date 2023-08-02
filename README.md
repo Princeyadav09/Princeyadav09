@@ -4,7 +4,7 @@
 
 
 
-- 🌱 All set to show with you...
+- 🌱 Ready to gain experience with you...
 
 - 👨‍💻 All of my projects are available at [princeyadav09](princeyadav09)
 
