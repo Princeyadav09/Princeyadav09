@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [princeyadav09](princeyadav09)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **princekumaryadav09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MbtdfJ7GA8GNyDSdCLZLZ-kxflslBMYG/view?usp=sharing](https://drive.google.com/file/d/1MbtdfJ7GA8GNyDSdCLZLZ-kxflslBMYG/view?usp=sharing)
