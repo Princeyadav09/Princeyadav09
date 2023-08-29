@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **princekumaryadav09@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1IMP-aJHmAvV_aqdJSVr0I2phdblG0wfI)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pagpKS9yFqzXIe4rZLaXF-aMjq_m0CaE/view?usp=sharing)
 - 📄 Personal-portfolio [https://prince-yadav.onrender.com](https://prince-yadav.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
