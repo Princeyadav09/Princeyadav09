@@ -13,9 +13,9 @@
 ---
 ### 👦 About Me
 - 🔭 Grinding...**
-- 
-- 📫 How to reach me **sanjeevsinghkaushik662@gmail.com**
-- 
+
+- 📫 How to reach me **princekumaryadav09@gmail.com**
+  
 - 👩‍💻 Constantly learning and I'm very interested in Open Source!
 
 - 💫 I'm a highly skilled web developer with expertise in <strong>React.js and Node.js</strong>, combined with strong knowledge of <strong>Data Structures
@@ -27,24 +27,15 @@ and Algorithms</strong>.
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-* [To-Let (RoomOnRent)](https://github.com/princeyadav09/ToLet-RoomOnRent)
-* [AmazonClone-app](https://github.com/princeyadav09/Amazon-Clone-App)
-* [Chat-app](https://github.com/princeyadav09/Clone-Chat-App)
-* [Banking-system](https://github.com/princeyadav09/BankingSystem)
-* [Blog-app](https://github.com/princeyadav09/blog_app)
-* [ToDo-list](https://github.com/princeyadav09/ToDoList)
+* [E-Shop (Multivender e-commerce-shop)](https://e-commerce-shop-d8nq.onrender.com)
+* [Inotebbok (Secure Note Storage)](https://inotebook-wxpy.onrender.com)
+* [PG-Life](https://github.com/Princeyadav09/PGLife/tree/master/PGLife)
 
 #### Frontend Projects :
 
-* [PortfolioSanjeevSingh](https://github.com/princeyadav09/PortfolioSanjeevSingh)
-* [Weather-app (API used)](https://github.com/princeyadav09/weather-app)
-* [News-app (API used)](https://github.com/princeyadav09/newsapp)
-
-#### UI Projects :
-
-* [Thanku card](https://github.com/princeyadav09/thankugreetingcard)
-* [Shopping-app](https://github.com/princeyadav09/onlineshop.github.io)
-* [Indian culture](https://github.com/princeyadav09/IndianCulture)
+* [Portfolio Prince yadav](https://prince-yadav.onrender.com)
+* [Landing Page](https://landingpage-k9mk.onrender.com)
+* [News-app (API used)](https://github.com/Princeyadav09/BalliaKhabar)
 
 
 <h3 align="center">Languages</h3>
