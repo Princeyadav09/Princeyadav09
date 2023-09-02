@@ -11,7 +11,7 @@
 
 ---
 ### 👦 About Me
-- 🔭 Grinding...**
+- 🔭 Grinding...
 
 - 📫 How to reach me **princekumaryadav09@gmail.com**
   
