@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sanjeev%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princeyadav09&label=Profile%20views&color=0e75b6&style=flat" alt="princeyadav09" /> </p>
 
@@ -153,7 +152,7 @@ and Algorithms</strong>.
        <a href="https://github.com/princeyadav09" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a  href="https://www.linkedin.com/in/princeyadav09" target="_blank">
+    <a  href="https://www.linkedin.com/in/prince-kumar-yadav-4a6805204/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a  href="mailto:princekumaryadav09@gmail.com" target="_blank">
