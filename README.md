@@ -36,7 +36,7 @@ and Algorithms</strong>.
 * [Landing Page](https://landingpage-k9mk.onrender.com)
 * [News-app (API used)](https://github.com/Princeyadav09/BalliaKhabar)
 
-
+<!--
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -144,6 +144,7 @@ and Algorithms</strong>.
 </p>
 
 ----
+-->
 
 <h3 align="center">Connect with me</h3>
 
