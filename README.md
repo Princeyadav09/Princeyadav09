@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **princekumaryadav09@gmail.com**
 
-- 👦 <a href="https://drive.google.com/file/d/1AbHzyPDslFLBScrMt7Gx3ZFmOx4f_Aig/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences :<a href="https://drive.google.com/file/d/1AbHzyPDslFLBScrMt7Gx3ZFmOx4f_Aig/view?usp=sharing">Resume</a>
   
 - 👩‍💻 Constantly learning and I'm very interested in Open Source!
 
